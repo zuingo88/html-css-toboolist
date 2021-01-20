@@ -89,9 +89,11 @@ h2 {
   font-weight: bolder;
 }
 
-span {margin-right: 10px;}
+ul {list-style-type: none;}
 
-p {margin-bottom: 20px;}
+li {margin-bottom: 20px;}
+
+span {margin-right: 10px;}
 
 
 
